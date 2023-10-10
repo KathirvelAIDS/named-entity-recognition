@@ -36,6 +36,12 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## PROGRAM:
 
 ### Libraries:
+
+```
+NAME:KATHIRVEL.A
+REG NO:21222123047
+```
+
 ```
 
 import matplotlib.pyplot as plt
